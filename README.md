@@ -1,5 +1,37 @@
+<!DOCTYPE html>
+<html>
 
-![Name](https://github.com/PatilVaishnavii/PatilVaishnavii/assets/129088625/a11d12eb-2fa2-43e9-b535-3939e4e7a8bc)
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
+<style>
+body {
+background: #111;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+position: absolute;
+}
+
+h1 {
+background-image: linear-gradient(to right, yellow, lightblue);
+background-size: 100% 100%;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+text-transform: uppercase;
+font-family: 'Playfair Display', serif;
+font-size: 4rem;
+text-align: center;
+font-weight: 800;
+}
+</style>
+</head>
+
+<body>
+<h1>vaishnavi Patil</h1>
+</body>
+
+</html>
 
 <h1 align="center">Hey! 👋</h1>
 <h3 align="center">I'm Vaishnavi Patil, MCA student.</h3>
