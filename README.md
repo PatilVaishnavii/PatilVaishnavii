@@ -1,37 +1,5 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
-<style>
-body {
-background: #111;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-position: absolute;
-}
-
-h1 {
-background-image: linear-gradient(to right, yellow, lightblue);
-background-size: 100% 100%;
-background-clip: text;
--webkit-background-clip: text;
-color: transparent;
-text-transform: uppercase;
-font-family: 'Playfair Display', serif;
-font-size: 4rem;
-text-align: center;
-font-weight: 800;
-}
-</style>
-</head>
-
-<body>
-<h1>vaishnavi Patil</h1>
-</body>
-
-</html>
+ <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
 
 <h1 align="center">Hey! 👋</h1>
 <h3 align="center">I'm Vaishnavi Patil, MCA student.</h3>
