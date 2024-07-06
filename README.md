@@ -12,7 +12,6 @@ I'm an MCA student passionate about software development, web technologies, and 
 - **Tools and Platforms:** MySQL, Appwrite
 
 ## Get in Touch
-- [Email](vaishnavip1806@gmail.com)
 - [LinkedIn](https://linkedin.com/in/vaishnavii-patil)
 - [Instagram](https://instagram.com/_._vaishnaviiiiii_._)
 
