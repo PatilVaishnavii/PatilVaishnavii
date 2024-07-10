@@ -7,9 +7,10 @@
 I'm an MCA student passionate about software development, web technologies, and continuous learning. I enjoy working on various projects and exploring new technologies to enhance my skills.
 
 ## Skills and Technologies
-- **Languages:** JavaScript, TypeScript, SQL, HTML, CSS
+- **Languages:** JavaScript, TypeScript, SQL,
+- **Web Technologies:** HTML, CSS
 - **Frameworks and Libraries:** React.js, Node.js, Tailwind CSS
-- **Tools and Platforms:** MySQL, Appwrite
+- **Tools and Platforms:** MySQL
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/vaishnavii-patil)
