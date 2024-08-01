@@ -11,7 +11,7 @@ I'm an MCA student passionate about software development, web technologies, and 
 ## Skills and Technologies
 - **Languages:** JavaScript, TypeScript, SQL,
 - **Web Technologies:** HTML, CSS
-- **Frameworks and Libraries:** React.js, Node.js, Tailwind CSS
+- **Frameworks and Libraries:** React.js, Tailwind CSS
 - **Tools and Platforms:** MySQL
 
 ## Get in Touch
