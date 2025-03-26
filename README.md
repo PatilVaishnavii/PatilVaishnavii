@@ -16,7 +16,7 @@ I'm an MCA student passionate about software development, web technologies, and 
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/vaishnavii-patil)
-- [Instagram](https://instagram.com/_._vaishnaviiiiii_._)
+
 
 
 
